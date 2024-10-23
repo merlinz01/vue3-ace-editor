@@ -4,6 +4,8 @@ import ResizeObserver from 'resize-observer-polyfill';
 
 import type { VAceEditorInstance } from './types';
 
+export type VAceEditorInstance;
+
 const Events = [
   'blur',
   'input',
